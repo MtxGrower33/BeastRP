@@ -1,6 +1,8 @@
-## Title: BeastRP
+## Interface: 11200
+## Title: |cFFFF5555Beast|r|cffffffffRP|r |cFFFF5555(BETA)
 ## Notes: Add more soundeffects for hunter pets.
 ## Author: Ezeki
+## Version: 1.0
 ## SavedVariablesPerCharacter: BeastRP_config
 
 main.lua
