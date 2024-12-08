@@ -32,10 +32,6 @@ local function pd(msg)
         end
     end
 end
-local whiteTexture = UIParent:CreateTexture(nil, "BACKGROUND")
-whiteTexture:SetAllPoints(UIParent)
-whiteTexture:SetTexture("Interface\\Buttons\\White8x8")
-whiteTexture:SetVertexColor(0.4,0.4,0.4)
 
 -- config
 BeastRP_config = BeastRP_config or {
