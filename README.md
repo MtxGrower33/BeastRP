@@ -5,7 +5,7 @@ Use /brp or /beastrp to open config.
 
 Beta Version - report bugs or use Debug button and report on turtle-wow forums please.
 
-SUPPORTED PET FAMILYS AS OF 12/2024:
+SUPPORTED PET FAMILYS AS OF 12/2024 :
 
 ===================
 
