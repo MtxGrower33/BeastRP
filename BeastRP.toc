@@ -1,0 +1,2 @@
+## SavedVariablesPerCharacter: BeastRP_config
+main.lua
