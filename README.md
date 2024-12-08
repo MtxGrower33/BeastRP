@@ -10,6 +10,7 @@ SUPPORTED PET FAMILYS AS OF 12/2024 :
 ===================
 
 WORKING: Bear / Boar / Cat / Crocolisk / Gorilla / Hyena / Owl / Raptor / WindSerpent / Wolf
+
 NOT SUPPORTED YET: Bat / CarrionBird / Crab / Scorpid / Spider / Tallstrider / Turtle / Foxes / Serpents
 
 ===================
