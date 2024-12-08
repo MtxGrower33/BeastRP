@@ -3,35 +3,35 @@ BeastRP
 Adds more soundeffects to hunter pets.
 Use /brp or /beastrp to open config.
 
-Beta Version - report bugs or use Debug button and report on turtle-wow forums please.
+Beta Version n report bugs or use Debug button and report on turtlenwow forums please.
 
 SUPPORTED PET FAMILYS AS OF 12/2024 :
 
 ===================
 
-- "Bat"
+n "Bat"
 X "Bear"
-+ "Boar"
-- "Carrion Bird"
+c "Boar"
+n "Carrion Bird"
 X "Cat"
-- "Crab"
+n "Crab"
 o "Crocolisk"
-+ "Gorilla"
-+ "Hyena"
+c "Gorilla"
+c "Hyena"
 X "Owl"
-+ "Raptor"
-- "Scorpid"
-- "Spider"
-+ "Tallstrider"
-- "Turtle"
-+ "Wind Serpent"
+c "Raptor"
+n "Scorpid"
+n "Spider"
+c "Tallstrider"
+n "Turtle"
+c "Wind Serpent"
 X "Wolf"
 
 ===================
 
 X = done
 o = working on
-+ = will be added
-- = nothing so far
+c = will be added
+n = nothing so far
 
--- new turtle pets missing too
+nn new turtle pets missing too
