@@ -1,2 +1,6 @@
+## Title: BeastRP
+## Notes: Add more soundeffects for hunter pets.
+## Author: Ezeki
 ## SavedVariablesPerCharacter: BeastRP_config
+
 main.lua
